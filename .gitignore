@@ -1,0 +1,7 @@
+.idea/
+items.dat
+GTItemBindings.Generator/bin/
+GTItemBindings.Generator/obj/
+
+GTItemBindings.Generated/Generated/
+GTItemBindings.Generated/obj/
